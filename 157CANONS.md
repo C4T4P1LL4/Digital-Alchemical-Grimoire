@@ -1,7 +1,7 @@
 # Digital-Alchemical-Grimoire
 a Collection of Resources for Alchemists
 
-# 157 Canons
+### 157 Canons
 
 These 157 alchemical canons were published, together with the 153 alchemical aphorisms, in Franciscus Mercurius
 van Helmont, One hundred fifty three chymical aphorisms. Briefly containing whatsoever belongs to the chymical
@@ -11,7 +11,7 @@ published for the sake of the sedulous labourers in true chymistry... by Chr. Pa
 W. Cooper. 1688. This was included in the earlier compendium by Benedictus Figulus, Pandora magnalium naturalium..., Strassburg,
 1608.
 
-#To the Lovers of Hermetick Studies
+**To the Lovers of Hermetick Studies**
 
 ALL the Books of Phylosophers, which treat of the abstruse Hermetick Medicine, are of nothing but a Spagyrical
 Labyrinth, in which, for the most part, the Disciples of Art fall into various Ambages and Deceits; so that even to
@@ -32,7 +32,7 @@ employ your time in diligent Meditation and profound Judgement, than to undergo 
 inconsiderate Temerity.- Farewell.
 B.D.P.
 
-# Some Phylosophic Rules or Cannons, Concerning the Stone of Phylosophers
+**Some Phylosophic Rules or Cannons, Concerning the Stone of Phylosophers**
 
 What we seek, is either here, or no where.
 
