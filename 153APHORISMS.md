@@ -1,6 +1,8 @@
 # Digital-Alchemical-Grimoire
 a Collection of Resources for Alchemists
 
+Compilers Comment: Yes some of the aphorisms are not complete unto themselves but this is the text that I have converted for Github here.
+
 ### 153 Chymical Aphorisms
 
 These 153 alchemical aphorisms were published, together with the 157 alchemical canons, in Franciscus Mercurius
