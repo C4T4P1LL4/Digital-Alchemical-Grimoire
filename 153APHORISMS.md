@@ -53,18 +53,18 @@ Dated at Vienna, the
 **CLII
 Chymical Aphorisms; To Which May be Commodiosly reffered whatsoever belongs to the Chymical Science**
 
-Aphorism I. Alchemy is the perfect knowledge of whole Nature and Art, about the Kingdom of Metals.
-Aph. 2. Which by reason of its Excellency, is called by many other Names.
-Aph. 3. And was first invented by one Alchemus, as some think.
-Aph. 4. And in all times hath been so highly esteemed by Philosophers by reason of its great Utility.
-Aph. 5. That the Adepti being moved with Pity, would not altogether conceal it.
-Aph. 6. Nevertheless, they have delivered it but confusedly, enigmatically, and under Allegories.
-Aph. 7. Lest it should fall into the hands of the unworthy.
-Aph. 8. But that it should be known to its own Sons only.
-Aph. 9. With which Sophister should have no Commerce.
-Aph. 10. Wherefore this Science is the Gift of God, which he bestoweth on whom he pleaseth.
-Aph. 11. Either by the Revelation of a faithful Friend; or by illuminating the Understanding of the Enquirer.
-Aph. 12. Who seeketh it by Prayer, diligent Reading, profound Meditation, and assiduous Labour.
+Aphorism I. Alchemy is the perfect knowledge of whole Nature and Art, about the Kingdom of Metals.  
+Aph. 2. Which by reason of its Excellency, is called by many other Names.  
+Aph. 3. And was first invented by one Alchemus, as some think.  
+Aph. 4. And in all times hath been so highly esteemed by Philosophers by reason of its great Utility.  
+Aph. 5. That the Adepti being moved with Pity, would not altogether conceal it.  
+Aph. 6. Nevertheless, they have delivered it but confusedly, enigmatically, and under Allegories.  
+Aph. 7. Lest it should fall into the hands of the unworthy.  
+Aph. 8. But that it should be known to its own Sons only.  
+Aph. 9. With which Sophister should have no Commerce.  
+Aph. 10. Wherefore this Science is the Gift of God, which he bestoweth on whom he pleaseth.  
+Aph. 11. Either by the Revelation of a faithful Friend; or by illuminating the Understanding of the Enquirer.  
+Aph. 12. Who seeketh it by Prayer, diligent Reading, profound Meditation, and assiduous Labour.  
 Aph. 13. Therefore it behoveth the Studious of this Art, to be of a pure heart, intire manners, steadfast to his purpose, and a Religious keeper of Secrets.
 Aph. 14. And moreover, that he be indowed with a good Wit, health of Body, and a plentiful Fortune.
 Aph. 15. Because this Art requireth the whole Man, being found out, possesseth him, and once possessed, freeth him from every long and serious business, causing him to disregard all other things, and to repute them as being foreign and strange.
