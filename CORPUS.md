@@ -24,6 +24,8 @@ Title | Description
 [Inner Garden: Vitriol](https://innergarden.org/en/vitriol.html) | Article about vitriol crystals on Inner Garden
 [Wikipedia: Alchemy](https://en.wikipedia.org/wiki/Alchemy) | General info on the Royal Arte
 [Wikipedia: List of Alchemists](https://en.wikipedia.org/wiki/List_of_alchemists) | Useful for reference and to study famous Alchemists
+[Alchemical meditation](https://www.alchemywebsite.com/medit.html) | Contains links to various meditation exercises.
+[Azoth Alchemy Meditations](http://azothalchemy.org/meditations.htm) | Meditation article by Dennis William Hauck
 
 ### Libraries
 Title | Description
