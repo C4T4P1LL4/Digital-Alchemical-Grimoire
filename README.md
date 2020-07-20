@@ -7,6 +7,15 @@ The goal of the DAG Project was to make a point of reference for all the various
 
 # The Corpus
 
+### Table of Contents
+
+[Full Websites on Alchemy](#Full-Websites-on-Alchemy)  
+[Libraries](#Libraries)  
+[Interesting Articles](#Interesting-Articles)  
+[Online Communities](#Online-Communities)  
+[Video Resources](#Video-Resources)  
+[Kids Section](#Kids-Section)  
+
 ### Full Websites on Alchemy
 Title | Description
 ---- | ----
@@ -44,7 +53,7 @@ Title | Description
 [Alchemical meditation](https://www.alchemywebsite.com/medit.html) | Contains links to various meditation exercises.
 [Azoth Alchemy Meditations](http://azothalchemy.org/meditations.htm) | Meditation article by Dennis William Hauck
 [The 5 Birds of Alchemy](https://blabelalchemy.wordpress.com/2012/07/22/five-birds-in-the-alchemy-of-tounges/) | Article on the 5 birds of alchemy that also references a more famous article on birds
-[Alchemy, Humours, Medicine](https://patrickmlandry.wordpress.com/2012/12/16/alchemy-humours-medicine/) | Article on the Four Humours 
+[Alchemy, Humours, Medicine](https://patrickmlandry.wordpress.com/2012/12/16/alchemy-humours-medicine/) | Article on the Four Humours
 [Intro to Daoist Alchemy](https://www.goldenelixir.com/jindan/jindan_intro.html) | This is a good site for learning the chinese tradition. This is an intro to their arte.
 
 ### Online Communities
