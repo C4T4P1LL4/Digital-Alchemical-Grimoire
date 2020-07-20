@@ -39,6 +39,7 @@ Title | Description
 [Inner Garden Online Library](https://innergarden.org/alchemylibrary/contents.html) | Small Web Collection of texts on Inner Garden
 [Alchemy Study Library](https://alchemystudy.com/library.html) | Library for the AlchemyStudy Online School
 [The Hermetic Library](https://hermetic.com/index) | Library Website with lots of information about various Hermetic Subjects
+[Mega.Nz Collection](https://mega.nz/folder/k1tnhJqZ#LN-lFmw67x3qjEvR0gRSjg) | A collection of PDFs on Mega
 
 ### Online Communities
 Title | Description
