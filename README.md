@@ -84,7 +84,7 @@ Title | Description
 [Stephen Hoeller on Jung](https://youtu.be/QzoqTQx-lyw) | Independent upload of some lectures by Stephen Hoeller
 [Stephen Hoeller on Paracelsus](https://youtu.be/SKy_55pOONU) | Find more lectures at the Ecclesia Gnostica Channel
 [William Meaders Esoteric Astrology](https://youtu.be/OLhw9ndeEH8) | put on by the Theosophical Society
-[Rectifying Tinctures and Essences](https://www.youtube.com/watch?v=x9nMaoVV9xk&t=33s) | a Phoenix Aurelius live show on Alchemi-Culture
+[Rectifying Tinctures and Essences](https://www.youtube.com/watch?v=x9nMaoVV9xk&t=33s) | a Phoenix Aurelius live lab on Alchemi-Culture
 [Intro to Alchemy (FIA Lecture)](https://youtu.be/DgP983eCRfM) | Esoterica is a Youtube Channel about Western Esotericism. This is one video about alchemy.
 [Science of Magic Documentary](https://youtu.be/iMmgiVfxaEI) | In Search of History Documentary on Alchemy
 [The Golden Rain Experiment](https://youtu.be/mzsdORUPk48) | Scientific study of Golden Rain Experiment
