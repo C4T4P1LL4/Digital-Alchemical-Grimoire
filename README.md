@@ -1,7 +1,7 @@
 # Digital-Alchemical-Grimoire
 A collection of resources for alchemists.
 
-### About the DAG Project
+### The DAG Projects Magnum Opus
 
 The goal of the DAG Project was to make a point of reference for all the various valuable resources on the internet and organize it in such a way that one may find the information that they need more easily than 100 search queries. This helps an aspiring alchemist find what avenues are available to them to venture down and aids the existing alchemist in his daily operations.
 
@@ -18,20 +18,6 @@ Title | Description
 [Alchemy Journal](https://alchemyjournal.org/) | The Official Alchemy Journal Website
 [Alchemergy Podcast](https://alchemergy.podbean.com/) | Dennis William Haucks Podcast
 
-### Interesting Articles
-Title | Description
----- | ----
-[The Azoth Ritual](http://azothalchemy.org/azoth_ritual.htm) | Ritual of the azoth vitriol emblem
-[The Primum Ens Melissae (Inner Garden)](https://innergarden.org/en/ens.html) | Instruction on the Prime Ens Tincture of Lemonbalm
-[Inner Garden: Vitriol](https://innergarden.org/en/vitriol.html) | Article about vitriol crystals on Inner Garden
-[Wikipedia: Alchemy](https://en.wikipedia.org/wiki/Alchemy) | General info on the Royal Arte
-[Wikipedia: List of Alchemists](https://en.wikipedia.org/wiki/List_of_alchemists) | Useful for reference and to study famous Alchemists
-[Alchemical meditation](https://www.alchemywebsite.com/medit.html) | Contains links to various meditation exercises.
-[Azoth Alchemy Meditations](http://azothalchemy.org/meditations.htm) | Meditation article by Dennis William Hauck
-[The 5 Birds of Alchemy](https://blabelalchemy.wordpress.com/2012/07/22/five-birds-in-the-alchemy-of-tounges/) | Article on the 5 birds of alchemy that also references a more famous article on birds
-[Alchemy, Humours, Medicine](https://patrickmlandry.wordpress.com/2012/12/16/alchemy-humours-medicine/) | Article on the Four Humours 
-[Intro to Daoist Alchemy](https://www.goldenelixir.com/jindan/jindan_intro.html) | This is a good site for learning the chinese tradition. This is an intro to their arte.
-
 ### Libraries
 Title | Description
 ---- | ----
@@ -45,6 +31,21 @@ Title | Description
 [Alchemy Study Library](https://alchemystudy.com/library.html) | Library for the AlchemyStudy Online School
 [The Hermetic Library](https://hermetic.com/index) | Library Website with lots of information about various Hermetic Subjects
 [Mega.Nz Collection](https://mega.nz/folder/k1tnhJqZ#LN-lFmw67x3qjEvR0gRSjg) | A collection of PDFs on Mega
+
+
+### Interesting Articles
+Title | Description
+---- | ----
+[The Azoth Ritual](http://azothalchemy.org/azoth_ritual.htm) | Ritual of the azoth vitriol emblem
+[The Primum Ens Melissae (Inner Garden)](https://innergarden.org/en/ens.html) | Instruction on the Prime Ens Tincture of Lemonbalm
+[Inner Garden: Vitriol](https://innergarden.org/en/vitriol.html) | Article about vitriol crystals on Inner Garden
+[Wikipedia: Alchemy](https://en.wikipedia.org/wiki/Alchemy) | General info on the Royal Arte
+[Wikipedia: List of Alchemists](https://en.wikipedia.org/wiki/List_of_alchemists) | Useful for reference and to study famous Alchemists
+[Alchemical meditation](https://www.alchemywebsite.com/medit.html) | Contains links to various meditation exercises.
+[Azoth Alchemy Meditations](http://azothalchemy.org/meditations.htm) | Meditation article by Dennis William Hauck
+[The 5 Birds of Alchemy](https://blabelalchemy.wordpress.com/2012/07/22/five-birds-in-the-alchemy-of-tounges/) | Article on the 5 birds of alchemy that also references a more famous article on birds
+[Alchemy, Humours, Medicine](https://patrickmlandry.wordpress.com/2012/12/16/alchemy-humours-medicine/) | Article on the Four Humours 
+[Intro to Daoist Alchemy](https://www.goldenelixir.com/jindan/jindan_intro.html) | This is a good site for learning the chinese tradition. This is an intro to their arte.
 
 ### Online Communities
 Title | Description
