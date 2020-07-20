@@ -8,14 +8,14 @@ The goal of the DAG Project was to make a point of reference for all the various
 # The Corpus
 
 ### Table of Contents
-within the corpus file  
+**within the corpus file**  
 [Full Websites on Alchemy](#Full-Websites-on-Alchemy)  
 [Libraries](#Libraries)  
 [Interesting Articles](#Interesting-Articles)  
 [Online Communities](#Online-Communities)  
 [Video Resources](#Video-Resources)  
 [Kids Section](#Kids-Section)  
-Contents elsewhere in the grimoire    
+**Contents elsewhere in the grimoire**    
 [Emerald Tablet Translations](EmeraldTablet.txt)  
 [157 alchemical canons](157canons.txt)  
 [153 Chymical Aphorisms](153aphorisms.txt)  
