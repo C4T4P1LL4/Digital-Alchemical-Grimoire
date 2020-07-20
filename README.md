@@ -15,6 +15,10 @@ The goal of the DAG Project was to make a point of reference for all the various
 [Video Resources](#Video-Resources)  
 [Kids Section](#Kids-Section)  
 
+[Emerald Tablet Translations](EmeraldTablet.txt)
+[157 alchemical canons](157canons.txt)
+[153 Chymical Aphorisms](153aphorisms.txt)
+
 ### Full Websites on Alchemy
 Title | Description
 ---- | ----
