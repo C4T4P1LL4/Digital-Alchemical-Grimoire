@@ -1,6 +1,8 @@
 # Digital-Alchemical-Grimoire
 A collection of resources for alchemists.
 
+![image](https://raw.githubusercontent.com/C4T4P1LL4/Digital-Alchemical-Grimoire/resources/distillatio.jpg)
+
 ### The DAG Projects Magnum Opus
 
 The goal of the DAG Project was to make a point of reference for all the various valuable resources on the internet and organize it in such a way that one may find the information that they need more easily than 100 search queries. This helps an aspiring alchemist find what avenues are available to them to venture down and aids the existing alchemist in his daily operations.
