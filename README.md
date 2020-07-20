@@ -26,6 +26,9 @@ Title | Description
 [Wikipedia: List of Alchemists](https://en.wikipedia.org/wiki/List_of_alchemists) | Useful for reference and to study famous Alchemists
 [Alchemical meditation](https://www.alchemywebsite.com/medit.html) | Contains links to various meditation exercises.
 [Azoth Alchemy Meditations](http://azothalchemy.org/meditations.htm) | Meditation article by Dennis William Hauck
+[The 5 Birds of Alchemy](https://blabelalchemy.wordpress.com/2012/07/22/five-birds-in-the-alchemy-of-tounges/) | Article on the 5 birds of alchemy that also references a more famous article on birds
+[Alchemy, Humours, Medicine](https://patrickmlandry.wordpress.com/2012/12/16/alchemy-humours-medicine/) | Article on the Four Humours 
+[Intro to Daoist Alchemy](https://www.goldenelixir.com/jindan/jindan_intro.html) | This is a good site for learning the chinese tradition. This is an intro to their arte.
 
 ### Libraries
 Title | Description
