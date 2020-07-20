@@ -14,7 +14,7 @@ The goal of the DAG Project was to make a point of reference for all the various
 [Online Communities](#Online-Communities)  
 [Video Resources](#Video-Resources)  
 [Kids Section](#Kids-Section)  
-
+Contents elsewhere in the grimoire    
 [Emerald Tablet Translations](EmeraldTablet.txt)  
 [157 alchemical canons](157canons.txt)  
 [153 Chymical Aphorisms](153aphorisms.txt)  
