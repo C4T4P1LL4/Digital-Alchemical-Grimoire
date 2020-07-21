@@ -92,6 +92,7 @@ Title | Description
 [Maier: Atalanta Fugiens](https://www.youtube.com/playlist?list=PL_E8uiPBMVWjixlkVJFvJnjK4CItaiZJD) | Audio CD Playlist of the Atalanta Fugiens (all vocals)
 [Infinite Fire Webinar Series](https://www.youtube.com/playlist?list=PLNdQbyH7lu8uUkaLX-tus2f11B3-BXBOx) | Video Series put on by the Rittman Library Channel about Alchemical Texts
 [MindPodNetwork Alchemy](https://www.youtube.com/playlist?list=PLdN4QIhoeNuW7VbLjwOdZVtk9FiiceUK0) | playlist of alchemical lectures mostly by Manly P Hall (author of the Secret Teachings of all ages)
+[RubaPhilos Salfluĕre](https://www.youtube.com/c/Rubaphilossalflu%C4%95re/) | Youtube Channel on Hermetic Alchemy
 
 ### Kids Section
 Title | Description
