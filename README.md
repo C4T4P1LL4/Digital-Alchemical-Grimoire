@@ -95,6 +95,7 @@ Title | Description
 [Infinite Fire Webinar Series](https://www.youtube.com/playlist?list=PLNdQbyH7lu8uUkaLX-tus2f11B3-BXBOx) | Video Series put on by the Rittman Library Channel about Alchemical Texts
 [MindPodNetwork Alchemy](https://www.youtube.com/playlist?list=PLdN4QIhoeNuW7VbLjwOdZVtk9FiiceUK0) | playlist of alchemical lectures mostly by Manly P Hall (author of the Secret Teachings of all ages)
 [RubaPhilos Salfluĕre](https://www.youtube.com/c/Rubaphilossalflu%C4%95re/) | Youtube Channel on Hermetic Alchemy
+[School of Evolutionary Herbalism](https://www.youtube.com/c/SchoolofEvolutionaryHerbalism/) | This is Sajah Pophams channel and houses plenty of lectures on Spagyria from his point of view which has been described as shamanic by some. 
 
 ### Kids Section
 Title | Description
