@@ -62,6 +62,7 @@ Title | Description
 [Azoth Alchemy on Metals](https://www.azothalchemy.org/metals.htm) | Great article on metals in alchemy
 [What it means to turn Lead into Gold](http://vjmpublishing.nz/?p=17216) | Article about what exactly it means to perform the operation of the royal arte.
 [The Acetate Path](https://www.kymiaarts.com/blog/the-acetate-path) } Kymia Arts Lab Blog on Obtaining the Consciousness of Metals
+[Transmutation of Mercury into Gold](http://www.levity.com/alchemy/nelson2_7.html) | article on the work of a Japanese Scientist in 1924 on Transmutation
 
 ### Online Communities
 Title | Description
