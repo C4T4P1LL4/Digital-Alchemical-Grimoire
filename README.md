@@ -63,6 +63,7 @@ Title | Description
 [What it means to turn Lead into Gold](http://vjmpublishing.nz/?p=17216) | Article about what exactly it means to perform the operation of the royal arte.
 [The Acetate Path](https://www.kymiaarts.com/blog/the-acetate-path) | Kymia Arts Lab Blog on Obtaining the Consciousness of Metals
 [Transmutation of Mercury into Gold](http://www.levity.com/alchemy/nelson2_7.html) | article on the work of a Japanese Scientist in 1924 on Transmutation
+[The Golden Chain](https://www.sacred-texts.com/alc/catena1.htm) | the text that is said to expound the ancient alchemical belief of creation which then builds the acetate path of alchemy.
 
 ### Online Communities
 Title | Description
